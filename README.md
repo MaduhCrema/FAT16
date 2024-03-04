@@ -1,4 +1,4 @@
-##Especificação##
+#Especificação
 
 - Dados do boot record: bytes por setor, setores reservados, setores por cluster, numero de fat, numero de setores por fat e número de entradas no diretório raiz.
 
